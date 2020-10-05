@@ -44,7 +44,7 @@ roughly like the following:
 All labs will more or less have the same structure. (And non-lab lessons, for
 that matter, will still have CONTRIBUTING.md, LICENSE.md, and README.md files.)
 
-### Code Along
+### Code Along#
 
 Open up `index.js` in your text editor. If you're using the Learn IDE, click the
 blue "Open" button in the top right hand corner of the lesson. If you open up
